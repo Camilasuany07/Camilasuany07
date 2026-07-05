@@ -43,19 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Camilasuany07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,10 +55,10 @@
 ## 🌎 Onde me encontrar
 
 <p align="center">
-  <a href="LINK-LINKEDIN">
+  <a href="a href="https://www.linkedin.com/in/camila-suany-a90784210" target="_blank"">
     <img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:camilasuanny0728@gmail.com">
     <img src="https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
